@@ -1,0 +1,19 @@
+{
+  "author": "Kris Windham <kriswindham@gmail.com> (krwindham.jit.su)",
+  "name": "resourceful-test",
+  "description": "Testing examples with flatiron/resourceful",
+  "version": "0.0.0",
+  "main": "./bin/server",
+  "scripts": {
+    "test": "mocha",
+    "start": "./bin/server"
+  },
+  "dependencies": {
+    "resourceful": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
