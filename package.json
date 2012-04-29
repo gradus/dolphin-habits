@@ -1,7 +1,7 @@
 {
   "author": "Kris Windham <kriswindham@gmail.com> (krwindham.jit.su)",
-  "name": "resourceful-test",
-  "description": "Testing examples with flatiron/resourceful",
+  "name": "dolphin-habits",
+  "description": "tracking silly dolphin habits for fun with with flatiron/resourceful",
   "version": "0.0.0",
   "main": "./bin/server",
   "scripts": {
