@@ -3,10 +3,10 @@
   "name": "dolphin-habits",
   "description": "tracking silly dolphin habits for fun with with flatiron/resourceful",
   "version": "0.0.0",
-  "main": "./bin/server",
+  "main": "./bin/start",
   "scripts": {
     "test": "mocha",
-    "start": "./bin/server"
+    "start": "./bin/start"
   },
   "dependencies": {
     "resourceful": "*"
